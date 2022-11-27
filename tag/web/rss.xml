@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<rss version="2.0">
+    <channel>
+        <title>大标题 • Posts by &#34;web&#34; tag</title>
+        <link>http://example.com</link>
+        <description>描述</description>
+        <language>zh-CN</language>
+        <pubDate>Mon, 28 Nov 2022 00:15:00 +0800</pubDate>
+        <lastBuildDate>Mon, 28 Nov 2022 00:15:00 +0800</lastBuildDate>
+        <category>WEB</category>
+        <item>
+            <guid isPermalink="true">http://example.com/2022/11/28/WEB/index/</guid>
+            <title>前端</title>
+            <link>http://example.com/2022/11/28/WEB/index/</link>
+            <category>WEB</category>
+            <pubDate>Mon, 28 Nov 2022 00:15:00 +0800</pubDate>
+            <description><![CDATA[ &lt;p&gt;1221423&lt;/p&gt;
+ ]]></description>
+        </item>
+    </channel>
+</rss>

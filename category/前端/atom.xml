@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>http://example.com</id>
+    <title>大标题 • Posts by &#34;前端&#34; category</title>
+    <link href="http://example.com" />
+    <updated>2022-11-27T16:15:00.000Z</updated>
+    <category term="WEB" />
+    <entry>
+        <id>http://example.com/2022/11/28/WEB/index/</id>
+        <title>前端</title>
+        <link rel="alternate" href="http://example.com/2022/11/28/WEB/index/"/>
+        <content type="html">&lt;p&gt;1221423&lt;/p&gt;
+</content>
+        <category term="WEB" />
+        <updated>2022-11-27T16:15:00.000Z</updated>
+    </entry>
+</feed>
